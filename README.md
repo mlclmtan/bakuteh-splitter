@@ -1,4 +1,8 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Deployment
+
+![Vercel](https://therealsujitk-vercel-badge.vercel.app/?app=bakuteh-splitter)
+
+[Split your bill here!](https://bakuteh-splitter.vercel.app/)
 
 ## Getting Started
 
